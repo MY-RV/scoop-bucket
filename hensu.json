@@ -10,6 +10,6 @@
         }
     },
     "homepage": "https://github.com/MY-RV/hensu",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "description": "Machine-local config get/set/dump that agents can read without seeing values"
 }

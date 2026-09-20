@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/MY-RV/hensu/releases/download/v0.1.0/hensu_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/MY-RV/hensu/releases/download/v0.1.1/hensu_0.1.1_windows_amd64.zip",
             "bin": [
                 "hensu.exe"
             ],
-            "hash": "4e5a1ea4b9bd16a3071d5d459aa7f6701016dfa49822f686fd7045c7d4051a20"
+            "hash": "389057639fa22680f843e43a0e2b8ed58495ad39b809e2a440c3ca9e8a22745e"
         }
     },
     "homepage": "https://github.com/MY-RV/hensu",

@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Thin repo command catalog",
   "homepage": "https://github.com/MY-RV/godo",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/MY-RV/godo/releases/download/v0.1.0/godo_0.1.0_windows_amd64.zip",
-      "hash": "77c5666015c95db7f2ce3798a38cf0525cee3d32a4125e6b5d3dd614e4f136a6"
+      "url": "https://github.com/MY-RV/godo/releases/download/v0.2.0/godo_0.2.0_windows_amd64.zip",
+      "hash": "84c2f7d6868b28ce823ef1e629df36aa66a4db5a59d8140659b03eb970e6f8c4"
     }
   },
   "bin": "godo.exe",

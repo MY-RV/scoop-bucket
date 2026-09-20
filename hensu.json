@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/MY-RV/hensu/releases/download/v0.1.0/hensu_0.1.0_windows_amd64.zip",
+            "bin": [
+                "hensu.exe"
+            ],
+            "hash": "4e5a1ea4b9bd16a3071d5d459aa7f6701016dfa49822f686fd7045c7d4051a20"
+        }
+    },
+    "homepage": "https://github.com/MY-RV/hensu",
+    "license": "Apache-2.0",
+    "description": "Machine-local config get/set/dump that agents can read without seeing values"
+}

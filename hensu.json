@@ -1,15 +1,23 @@
 {
-    "version": "0.1.1",
+  "version": "0.1.1",
+  "description": "Machine-local config get/set/dump that agents can read without seeing values",
+  "homepage": "https://github.com/MY-RV/hensu",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/MY-RV/hensu/releases/download/v0.1.1/hensu_0.1.1_windows_amd64.zip",
+      "hash": "389057639fa22680f843e43a0e2b8ed58495ad39b809e2a440c3ca9e8a22745e"
+    }
+  },
+  "bin": "hensu.exe",
+  "checkver": {
+    "github": "https://github.com/MY-RV/hensu"
+  },
+  "autoupdate": {
     "architecture": {
-        "64bit": {
-            "url": "https://github.com/MY-RV/hensu/releases/download/v0.1.1/hensu_0.1.1_windows_amd64.zip",
-            "bin": [
-                "hensu.exe"
-            ],
-            "hash": "389057639fa22680f843e43a0e2b8ed58495ad39b809e2a440c3ca9e8a22745e"
-        }
-    },
-    "homepage": "https://github.com/MY-RV/hensu",
-    "license": "MIT",
-    "description": "Machine-local config get/set/dump that agents can read without seeing values"
+      "64bit": {
+        "url": "https://github.com/MY-RV/hensu/releases/download/v$version/hensu_$version_windows_amd64.zip"
+      }
+    }
+  }
 }
